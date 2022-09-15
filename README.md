@@ -2,6 +2,7 @@
 ## Contents
 1. Jupyter notebook 
 2. Presentation
+3. loan.csv.zip (Unzip the file to run the code)
 
 ## Motivation
 
