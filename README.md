@@ -29,22 +29,23 @@
 ## Conclusions
 - State
   - Nebraska (NE) has highest percentage of charged off loans (60%)
-  - Wyoming (WY) has lowest percentage of charged off loans (3%)
+  - Wyoming (WY) has lowest percentage of charged off loans (4.82%)
 
 - Employment length
-  - Applicant without any work experience more likely to default on loan (21%)
-  - Applicant with 2 years of work experience more likely to replay loan (86.27%)
+  - Applicant without any work experience more likely to default on loan (21.21%)
+  - Applicant with 9 years of work experience more likely to replay loan (83.54%)
 
 - Home Ownership
-  - Applicants with home ownership status as “Other” more likely to default on loan (20%)
-  - Applicants with “Mortgage” home status are more likely to replay loans (85.93%)
+  - Applicants with home ownership status as “Other” more likely to default on loan (18.37%)
+  - Applicants with “Mortgage” home status are more likely to replay loans (84.82%)
 
 - Loan Purpose
-  - Small Business loan purpose applications are more likely to default on loan (27%)
-  - Wedding loan purpose are more likely to repay loans (89.8%)
+  - Small Business loan purpose applications are more likely to default on loan (26%)
+  - Wedding loan purpose are more likely to repay loans (89.84%)
 
 - Loan Grades:
-  - Percentage of charged off loan increases linearly from Grade A to Grade G
+  - Percentage of charged off loan increases from Grade A to Grade G
+  - Grade A loan applications are safest and the Grade G are riskiest.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
