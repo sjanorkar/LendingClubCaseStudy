@@ -6,7 +6,7 @@
 4. README
 
 ## Motivation
-
+Analyse the loan application data and draw the recommendations to increase the fully paid loan applications and reduce the charged off loan applications.
 
 
 # Project Name
